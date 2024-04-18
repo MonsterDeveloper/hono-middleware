@@ -1,5 +1,11 @@
 # @hono/valibot-validator
 
+## 0.2.3
+
+### Patch Changes
+
+- [#384](https://github.com/honojs/middleware/pull/384) [`324b65e3275085cd5c2dd2436025266f6b3a2386`](https://github.com/honojs/middleware/commit/324b65e3275085cd5c2dd2436025266f6b3a2386) Thanks [@MonsterDeveloper](https://github.com/MonsterDeveloper)! - fix(valibot-validator): make validation input optional when schema is optional
+
 ## 0.2.2
 
 ### Patch Changes
